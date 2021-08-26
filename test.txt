@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7CA2-5774
+
+ Directory of C:\Users\Inamd\OneDrive\Desktop\My GitBash Project
+
+26/08/2021  12:15    <DIR>          .
+26/08/2021  12:15    <DIR>          ..
+26/08/2021  12:15                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  54,012,833,792 bytes free
